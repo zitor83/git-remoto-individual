@@ -6,3 +6,5 @@ Este repositorio sirve para practicar la conexión y sincronización entre un en
 * Crear un repositorio local y conectarlo a internet.
 * Entender la diferencia entre traer información y publicar trabajo.
 * Publicar ramas y preparar el terreno para colaborar en equipo.
+
+Nota: Esta línea ha sido añadida desde una rama paralela para simular un entorno colaborativo.
